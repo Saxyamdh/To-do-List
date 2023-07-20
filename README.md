@@ -1,5 +1,5 @@
 # To-do-List
-The following repository is my first react project. The project is  a TodoList 
+The following repository is my first react project. The project is  a TodoList whose code is uploaded in the master branch
 
 The project contains Two assets. Main.jsx and App.jsx.
 Main.jsx is where react renders and creates the root element and is the main component.
